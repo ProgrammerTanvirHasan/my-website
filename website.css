@@ -1,0 +1,106 @@
+
+/* starting heading part */
+
+nav{
+    display: flex;
+    justify-content: space-between;
+      margin:0 100px;
+      background-color:;
+     
+    
+}
+.htitle{
+    color:rgb(247, 48, 48)
+    ;
+    
+}
+nav > ul{
+    display: flex;
+   
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+ 
+}
+.batton{
+    border-radius: 5px;
+    background-color: brown;
+    color: aliceblue;
+ }
+.head{
+    background-color: #fff8f3;
+}
+.headtwo{
+    display: flex;
+    justify-content: space-between;
+}
+.headertwo{
+    margin: 100px;
+    width: 50%
+}
+/* heading part end */
+/* starting main part */
+
+.about{
+    text-align: center;
+}
+.content{
+    border-radius: 10px;
+    background-color: antiquewhite;
+    padding: 150px;
+    margin: 50px 100px;
+    max-width: 1000px;
+    max-height: 800px;
+}
+.content2{
+   display: flex;
+   justify-content: space-around;
+}
+.name{
+   text-align: center;
+}
+.second{
+    border-radius: 10px;
+    padding: 150px;
+    margin: 50px 100px;
+    max-width: 1000px;
+    max-height: 800px;
+}
+.third{
+    display: flex;
+    padding: 30px;
+}
+.description{
+       padding: 60px;
+}
+.ten{
+    display: flex;
+   justify-content: space-between;
+   margin: 80px;
+}
+.baton{
+text-align: center;
+margin-top: 0px;
+
+}
+.buton{
+    background-color:rgb(233, 67, 67);
+}
+/* foter */
+.last{
+    display: flex;
+    margin: 70px;
+    justify-content: space-around;
+    background-color: #fff8f3;
+   
+}
+.lastdiv{
+    width: 50%;
+}
+.submit{
+    background-color: rgb(238, 68, 68);
+}
